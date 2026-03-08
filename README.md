@@ -2,8 +2,7 @@
 
 **`Desenvolvedora Web Front-End`**
 
-Oi! Me chamo Danielle Cristina, tenho 27 anos e sou natural de Manaus - Amazonas. Concluí o ensino médio e de lá para cá, entrei na faculdande de Arquitetura e Urbanismo. Me apaixonei pelo mundo da tecnologia em uma das disciplinas que envolvia: Tecnlogia, Desing, Layout, Softwares de Modelagem e Desenho Digital.
-Tranquei a faculdade de Arquitetura e atualmente estou cursando Análise e Desenvolvimento de Sistemas no Centro Universitário Internacional - UNINTER. 
+Oi! Me chamo Danielle Cristina, tenho 27 anos e sou natural de Manaus - Amazonas. Depois do ensino médio, entrei na faculdande de Arquitetura e Urbanismo. Me apaixonei pelo mundo da tecnologia em uma das disciplinas que envolvia: Tecnlogia, Desing, Layout, Softwares de Modelagem e Desenho Digital. Tranquei a faculdade de Arquitetura e atualmente sou formada em Análise e Desenvolvimento de Sistemas no Centro Universitário Internacional - UNINTER. 
 
 ---
 
